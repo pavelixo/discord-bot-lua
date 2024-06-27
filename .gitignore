@@ -17,4 +17,5 @@ Thumbs.db
 *.sublime-project
 *.sublime-workspace
 .env
-
+discordia.log
+gateway.json

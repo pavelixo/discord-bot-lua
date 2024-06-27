@@ -1,3 +1,5 @@
 > Basic Discord bot using Lua and Discordia as an API wrapper
 
 > luvit: 2.18.1
+
+setup > config.lua > config.token = 'your bot token'
